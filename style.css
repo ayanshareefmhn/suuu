@@ -1,0 +1,75 @@
+p{
+    font-family: font-family: 'Sevillana', cursive;
+    color: #080202;
+    font-size: 30px;
+    text-align: center;
+    border-top: 50px;
+    border-right: 50px;
+    border-bottom: 50px;
+    border-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+h1{
+    font-style: italic;
+    text-align: center;
+    color: #191919;
+    font-size: 60px;
+    border-top: 50px;
+    border-right: 50px;
+    border-bottom: 50px;
+    border-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    background-color: #16;
+}
+img{
+    align-self: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    border-top: 50px;
+    border-right: 50px;
+    border-bottom: 50px;
+    border-left: 50px;
+    padding: 25px;
+    background-color: #191919;
+    font-style: oblique;
+}
+html{
+    background-color: #F4DFC8;
+}
+button{
+    background-color: #DE8F5F;
+    color: black;
+    text-align: center;
+    border-radius: 2px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    border-top: 50px;
+    border-right: 50px;
+    border-bottom: 50px;
+    border-left: 50px;
+    padding: 25px;
+}
+.center{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    border-top: 50px;
+    border-right: 50px;
+    border-bottom: 50px;
+    border-left: 50px;
+    padding: 25px;
+}
+a{
+    text-align: center;
+}
